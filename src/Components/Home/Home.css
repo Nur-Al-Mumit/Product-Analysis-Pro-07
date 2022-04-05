@@ -1,0 +1,11 @@
+.product-container{
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-between;
+}
+.product-info{
+    width: 50%;
+}
+.product-img{
+    width: 40%;
+}
