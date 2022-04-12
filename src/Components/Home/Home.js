@@ -52,7 +52,7 @@ const Home = () => {
           ))}
         </div>
         <div className="reviews-btn">
-          <Link to="/Reviews">Reviews</Link>
+          <Link to="/Reviews">View All</Link>
         </div>
       </div>
     </div>
