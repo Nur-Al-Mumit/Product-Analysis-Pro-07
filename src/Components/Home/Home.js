@@ -10,7 +10,7 @@ const Home = () => {
   return (
     <div>
       <div>
-        <h1>This is your site name</h1>
+        <h1>Welcome to your Talking Shop</h1>
       </div>
       <div className="product-container">
         <div className="product-info">
